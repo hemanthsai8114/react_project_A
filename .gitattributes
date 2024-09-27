@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+import React from 'react'
+import {Mycomponent1} from './components/Mycomponent1
+
+export const = ()
